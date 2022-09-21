@@ -1,0 +1,6 @@
+C:\Users\adarshk\source\repos\Training_Project\AdminDLL\bin\Debug\AdminDLL.dll
+C:\Users\adarshk\source\repos\Training_Project\AdminDLL\bin\Debug\AdminDLL.pdb
+C:\Users\adarshk\source\repos\Training_Project\AdminDLL\obj\Debug\AdminDLL.csproj.CoreCompileInputs.cache
+C:\Users\adarshk\source\repos\Training_Project\AdminDLL\obj\Debug\AdminDLL.dll
+C:\Users\adarshk\source\repos\Training_Project\AdminDLL\obj\Debug\AdminDLL.pdb
+C:\Users\adarshk\source\repos\Training_Project\AdminDLL\obj\Debug\AdminDLL.csproj.AssemblyReference.cache
